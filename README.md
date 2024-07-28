@@ -9,7 +9,7 @@ Dados Analisados:
 2. Perfil do Cliente:
    - Dados demográficos
    - Comportamento de compra
-3. **Indicadores de Atendimento:
+3. Indicadores de Atendimento:
 - Tempo de espera
    - Satisfação do cliente
 4. Análise de Produtos:
@@ -26,5 +26,7 @@ Etapas do Projeto:
 Ferramentas: SQL, Python, Power BI/Tableau, Excel
 
 Resultados Esperados: Melhoria na tomada de decisões, aumento da eficiência operacional e incremento nas vendas.
+
+Competências adquiridas: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel  
 
 Obs: Como se tratar de uma empresa real, os dados foram anonimizados.
