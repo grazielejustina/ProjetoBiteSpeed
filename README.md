@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados: BiteSpeed
+# Projeto de Análise de Dados: Empresa do ramo de fast food
 
 Objetivo: Desenvolver um dashboard interativo para otimizar as operações e a estratégia de vendas da BiteSpeed.
 
